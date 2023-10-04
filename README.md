@@ -12,7 +12,7 @@ Power-ups e Itens: Colete power-ups emocionantes, como turbo boost, ímã de moe
 # Requisitos do Sistema
 Dispositivo Android ou iOS com suporte à Unity Engine.
 # Como Jogar
-Faça o download do jogo na loja de aplicativos do seu dispositivo.
+Faça o download do jogo no site do Itch.io.
 
 Abra o jogo e toque na tela para iniciar a corrida.
 
