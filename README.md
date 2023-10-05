@@ -12,7 +12,7 @@ Power-ups e Itens: Colete power-ups emocionantes, como turbo boost, ímã de moe
 # Requisitos do Sistema
 Dispositivo Android ou iOS com suporte à Unity Engine.
 # Como Jogar
-Faça o download do jogo no site do [Itch.io]([https://libgdx.com/dev/](https://murilosarz.itch.io/cant-stop).
+Faça o download do jogo no site do [Itch.io](https://murilosarz.itch.io/cant-stop).
 
 Abra o jogo e toque na tela para iniciar a corrida.
 
